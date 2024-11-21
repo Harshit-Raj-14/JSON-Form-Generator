@@ -1,5 +1,6 @@
 # Form Generator
 **Name : Harshit Raj**
+
 **Hosted Link - https://harshit-raj-json-form-generator.vercel.app/**
 ## Goal
 This is a dynamic form generator that processes a JSON schema to create a styled, functional form in real-time, with a side-by-side JSON editor and form preview.
@@ -15,7 +16,9 @@ This is a dynamic form generator that processes a JSON schema to create a styled
 
 ## Setup instructions
 > Clone the repo
+
 > npm install
+
 > npm start
 
 ## JSON SCHEMA
